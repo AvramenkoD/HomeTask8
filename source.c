@@ -1,18 +1,26 @@
 ﻿#include <stdio.h>
-#include <stdlib.h>
+#include <math.h>
 int main() {
 	
 	unsigned int n;
 	double rez = 1;
-	char string[32];
+
+	unsigned int temp = 0;
+	unsigned int digits = 0;
 
 	puts("Enter N:");
 	scanf("%u", &n);
 
 	for (unsigned int i = 1; i <= n; i++)
 	{
-		sprintf(string, "1.%u", i);
-		rez *= atof(string);
+		unsigned int temp = i;
+		unsigned int digits = 0;
+		while (temp > 0) {
+			temp /= 10;
+			digits++;
+		}
+
+		rez *= 1.0 + i / pow(10,digits);
 	}
 
 	printf("Result = %f", rez);
