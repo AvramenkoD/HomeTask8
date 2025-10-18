@@ -15,7 +15,7 @@ int main() {
 	{
 		unsigned int temp = i;
 		unsigned int digits = 0;
-		while (temp > 0) {
+		for (;temp > 0;) {
 			temp /= 10;
 			digits++;
 		}
