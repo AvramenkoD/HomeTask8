@@ -23,7 +23,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](Lab8_schema.png)
 
- [Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Lab8_schema.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1cBskoY_KU7yTj2_1Y4-Y3R1Gd1yOZScB%26export%3Ddownload)
+ [Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1r_q8MJKfZ0sxBpnalPp3B19VJ1lK6lwF%26export%3Ddownload)
 
  ## 2. Реализация программы
 
